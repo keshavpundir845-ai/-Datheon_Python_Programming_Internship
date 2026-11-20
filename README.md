@@ -1,2 +1,2 @@
-# Hungama-game
+# Hangama-game
 Console based hangman game in python
