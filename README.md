@@ -1,2 +1,2 @@
-# Hangama-game
-Console based hangman game in python
+Task 1 - hungama.py
+Task 2 - portfolio.py
